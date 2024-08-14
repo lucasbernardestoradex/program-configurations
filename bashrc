@@ -119,3 +119,4 @@ POWERLINE_BASH_SELECT=1
 . /usr/share/powerline/bindings/bash/powerline.sh
 
 alias python=python3
+alias openforti_alias='sudo openfortivpn brvpn.int.toradex.com:10443 --username=lucas.bernardes'
